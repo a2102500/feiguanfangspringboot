@@ -1,0 +1,52 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "name": "com.ljm",
+      "type": "com.ljm.model.ConfigBean"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "defaultValue": 0,
+      "name": "com.ljm.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "defaultValue": 0,
+      "name": "com.ljm.bignumber",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "name": "com.ljm.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "defaultValue": 0,
+      "name": "com.ljm.number",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "defaultValue": 0,
+      "name": "com.ljm.test1",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "defaultValue": 0,
+      "name": "com.ljm.test2",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.ljm.model.ConfigBean",
+      "name": "com.ljm.value",
+      "type": "java.lang.String"
+    }
+  ]
+}
